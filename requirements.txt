@@ -1,0 +1,6 @@
+streamlit
+pandas
+fitz
+google-generativeai
+python-docx
+PyMuPDF
